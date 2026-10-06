@@ -3,3 +3,4 @@ openpyxl
 pyxlsb
 pyarrow
 pywin32
+tkinter
