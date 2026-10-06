@@ -125,10 +125,4 @@ As pastas `data/`, `base_fornecedores/`, `log/` e `respostas_fornecedores/` são
 - `log/base_reenvio.xlsx`: fila de mensagens que precisam de nova tentativa.
 - `respostas_fornecedores/`: anexos Excel encontrados nas respostas dos fornecedores.
 
-## Publicação no GitHub
 
-Antes de publicar, verifique se o commit não inclui planilhas operacionais, logs, anexos de respostas, arquivos de ambiente virtual ou dados pessoais. O `.gitignore` do projeto já exclui esses itens. Mantenha no repositório apenas o código, as dependências e os recursos necessários da assinatura.
-
-O projeto depende de uma estrutura de pastas corporativa e de uma conta local do Outlook; portanto, publicar o código no GitHub não disponibiliza esses recursos nem os dados de entrada.
-
-..
